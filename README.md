@@ -396,12 +396,12 @@ Rata-rata *price* yang dibayarkan oleh *cluster* di atas rata-rata *cluster* lai
 
 Bila dilihat berdasarkan segmentasi *customer*, rekomendasi yang dapat diberikan sebagai berikut.
 
-*high monetary*
+*High monetary*
 - Menawarkan produk *Premium* dan *special editions*
 - Prioritas untuk membeli produk terbaru seperti `computers_accessories` yang menjadi kategori produk paling banyak dibeli 
 - Memberikan prioritas layanan pelanggan baik dari Olist Store maupun *seller*
 
-*low monetary*
+*Low monetary*
 - Memberikan voucher berupa diskon atau cashback
 - Menurut [mayple](https://www.mayple.com/blog/customer-segmentation-examples) sejumlah orang di segmentasi ini memiliki karakteristik FOMO (Fear of Missing Out). Oleh karena itu Olist Store dapat memanfaatkan kondisi tersebut untuk mengajak kembali pelanggan ini dengan *email* dan *retargeting campaign*
 - Lebih sering menampilkan kategori produk yang paling banyak dibeli pada kelompok ini yaitu `bed_bath_table` di *homepage* *customer*
