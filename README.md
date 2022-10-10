@@ -255,7 +255,6 @@ Pada DBSCAN *Clustering*, berikut poin-poin yang akan dibahas.
 1. Menentukan K Value untuk *clustering*
 2. *Fitting Model* untuk memprediksi *Cluster*
 3. *Cluster Visualization*
-4. *Cluster Evaluation*
 
 ### **4.6 K-Means Clustering Using RFM Feature (20000 sample)**
 
